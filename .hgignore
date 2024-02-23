@@ -1,0 +1,5 @@
+syntax: glob
+CMakeLists.txt.user*
+*~
+*/ThirdPartyDownloads/*
+.vscode/
